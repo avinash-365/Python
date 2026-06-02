@@ -121,11 +121,8 @@ Please enter your favourite number: 7
 Thank you! Here is the information we collected:
 
 Name: Abc (Type: <class 'str'>, Memory Address: 140703847239568)
-
 Age: 25 (Type: <class 'int'>, Memory Address: 9793456)
-
 Height: 1.68 (Type: <class 'float'>, Memory Address: 140703847253232)
-
 Favourite Number: 7 (Type: <class 'int'>, Memory Address: 9793312)
 
 Your birth year is approximately: 1998
