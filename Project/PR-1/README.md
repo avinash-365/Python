@@ -1,28 +1,30 @@
-# 🚀 Fundamental Booster
+# 🚀 Fundamental Booster - Personal Data Collector
 
-A beginner-friendly Python project that collects personal information from the user and demonstrates fundamental Python concepts such as variables, data types, type conversion, user input, memory addresses, and basic calculations.
+A beginner-friendly Python project that collects personal information from users and demonstrates fundamental Python concepts such as variables, data types, type conversion, memory addresses, user input handling, and basic calculations.
 
 ---
 
 ## 📖 Project Description
 
-**Fundamental Booster** is an interactive Python program designed to strengthen Python fundamentals.
+**Fundamental Booster** is an interactive Python application created to strengthen the understanding of Python fundamentals.
 
-The program collects:
+The program collects personal information from the user and displays detailed information about how Python stores and manages data.
 
-* User Name
-* Age
-* Height
-* Favourite Number
+### Information Collected
 
-It then displays:
+* 👤 Name
+* 🎂 Age
+* 📏 Height
+* 🔢 Favourite Number
 
-* Entered Information
+### Information Displayed
+
+* User Details
 * Data Types
 * Memory Addresses
 * Approximate Birth Year
 
-This project helps beginners understand how Python stores and processes different types of data.
+This project is ideal for beginners who are starting their Python learning journey.
 
 ---
 
@@ -30,42 +32,64 @@ This project helps beginners understand how Python stores and processes differen
 
 ✅ Interactive User Input
 
-✅ Data Type Demonstration
-
-✅ Type Conversion
+✅ Data Type Identification using `type()`
 
 ✅ Memory Address Display using `id()`
 
+✅ Type Conversion
+
 ✅ Birth Year Calculation
 
-✅ Beginner Friendly
+✅ Console-Based Application
+
+✅ Beginner-Friendly Python Project
 
 ---
 
 ## 🛠️ Technologies Used
 
-* Python 3
+| Technology | Purpose              |
+| ---------- | -------------------- |
+| Python 3   | Programming Language |
 
 ---
 
 ## 📂 Concepts Covered
 
 * Variables
-* Input and Output
-* Data Types
+* User Input & Output
+* Data Types (`str`, `int`, `float`)
 * Type Casting
 * Arithmetic Operations
-* Functions (`type()`, `id()`)
-* String Formatting
+* Memory Address Handling
+* Built-in Functions
+
+  * `input()`
+  * `print()`
+  * `type()`
+  * `id()`
 
 ---
 
-## ▶️ How to Run
+---
 
-1. Install Python 3
-2. Download the project file
-3. Open Terminal or Command Prompt
-4. Run the following command:
+## ▶️ How To Run
+
+### Step 1
+
+Install Python 3 on your system.
+
+### Step 2
+
+Download or clone this repository.
+
+### Step 3
+
+Open Terminal or Command Prompt.
+
+### Step 4
+
+Run the project:
 
 ```bash
 python fundamental_booster.py
@@ -77,8 +101,8 @@ python fundamental_booster.py
 
 ```text
 Please enter your name: Abc
-Please enter your age: 19
-Please enter your height in meters: 1.75
+Please enter your age: 25
+Please enter your height in meters: 1.68
 Please enter your favourite number: 7
 ```
 
@@ -89,43 +113,57 @@ Please enter your favourite number: 7
 ```text
 Welcome to the Interactive Personal Data Collector!
 
+Please enter your name: Abc
+Please enter your age: 25
+Please enter your height in meters: 1.68
+Please enter your favourite number: 7
+
 Thank you! Here is the information we collected:
 
-Name: Abc
-Age: 19
-Height: 1.75
-Favourite Number: 7
+Name: Abc (Type: <class 'str'>, Memory Address: 140703847239568)
 
-Your birth year is approximately: 2007
+Age: 25 (Type: <class 'int'>, Memory Address: 9793456)
+
+Height: 1.68 (Type: <class 'float'>, Memory Address: 140703847253232)
+
+Favourite Number: 7 (Type: <class 'int'>, Memory Address: 9793312)
+
+Your birth year is approximately: 1998
+(based on your age of 25)
 
 Thank you for using the Personal Data Collector. Goodbye!
 ```
 
+> **Note:** Memory addresses may vary on different systems and executions.
+
 ---
 
-## 🎯 Learning Objective
+## 🎯 Learning Objectives
 
-This project was created to practice and understand:
+This project was developed to practice and understand:
 
-* Basic Python Syntax
+* Python Fundamentals
 * User Interaction
-* Variable Handling
-* Data Types
-* Type Conversion
-* Memory Management Basics
+* Variable Management
+* Data Types and Type Conversion
+* Built-in Functions
+* Basic Calculations
+* Memory Address Concepts
 
 ---
 
-## 👨‍💻 Author
+## 🚀 Future Improvements
 
-**Avinash Vaghasiya**
-
-🎓 AI & ML with Data Science Student
-
-💻 Diploma in Computer Engineering
-
-🐍 Python Learner
+* Add Input Validation
+* Handle Invalid User Entries
+* Store User Data in a File
+* Add Better Output Formatting
+* Create a GUI Version using Tkinter
 
 ---
 
-### ⭐ If you like this project, consider giving it a star!
+## ⭐ Project Status
+
+Completed as a Python Fundamentals Learning Project.
+
+If you found this project useful, consider giving it a ⭐ on GitHub!
