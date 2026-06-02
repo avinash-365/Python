@@ -125,8 +125,7 @@ Age: 25 (Type: <class 'int'>, Memory Address: 9793456)
 Height: 1.68 (Type: <class 'float'>, Memory Address: 140703847253232)
 Favourite Number: 7 (Type: <class 'int'>, Memory Address: 9793312)
 
-Your birth year is approximately: 1998
-(based on your age of 25)
+Your birth year is approximately: 1998(based on your age of 25)
 
 Thank you for using the Personal Data Collector. Goodbye!
 ```
