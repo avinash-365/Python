@@ -1,12 +1,12 @@
 print("Welcome to the Interactive Personal Data Collector!\n")
 
 name=input("Please enter your name:")
-age=input("Please enter your age:")
-height=input("Please enter your height in meters:")
+age_i=input("Please enter your age:")
+height_i=input("Please enter your height in meters:")
 fnum=int(input("Please enter your favourite number:"))
 
-type(int(age))
-type(float(height))
+age=int(age_i)
+height=float(height_i)
 
 bithyear=2026 - age
 
