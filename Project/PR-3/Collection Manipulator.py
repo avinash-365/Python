@@ -100,3 +100,6 @@ while True:
     elif choice==6:
         print("\nThank you for using the Student Data Organizer! Have a great day.")    
         break
+
+    else:
+        print("Please Enter Vaild Choice!")
