@@ -45,4 +45,20 @@
 
 # 4
 
-# 
+# li=[]
+
+# for i in range(1,11):
+#     li.append(i)
+
+# print(li)
+
+# squares = [x**2 for x in range(1, 11)]
+# print(squares)
+
+# numbers = list(range(1, 21))
+# evens = [x for x in numbers if x % 2 == 0]
+# print(evens)
+
+# words = ["hello", "WORLD", "PyThOn"]
+# lowercase_words = [word.lower() for word in words]
+# print(lowercase_words)
