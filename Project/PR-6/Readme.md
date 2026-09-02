@@ -174,7 +174,7 @@ This keeps the journal-related functionality organized inside one class.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Personal-Journal-Manager.git
+git clone https://github.com/avinash-365/Personal-Journal-Manager.git
 ```
 
 ### 2. Open the Project
