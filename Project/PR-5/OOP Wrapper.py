@@ -4,17 +4,21 @@ class Employee:
         self.__employee_id=Employee.id_counter
         self.employee_name=employee_name
         self.employee_age=employee_age
-        self.set_employee_salary(employee_salary)
+        self.employee_salary = employee_salary
 
         Employee.id_counter += 1
 
+    @property
     def get_employee_id(self):
         return self.__employee_id
-    
-    def get_employee_salary(self):
+
+    @property
+    def employee_salary(self):
         return self.__employee_salary
-    
-    def set_employee_salary(self,new_salary):
+
+    @employee_salary.setter
+    def employee_salary(self,new_salary):
+
         if new_salary >= 0:
             self.__employee_salary = new_salary
 
@@ -33,7 +37,8 @@ class Employee:
             print(f"\nEmployee id : {self.__employee_id} || Employee Name: {self.employee_name} || Employee Age: {self.employee_age} || Employee Salary: {self.__employee_salary}")
 
     def __del__(self):
-        pass
+        print("Thank you")
+        
 
 
 class Manager(Employee):
