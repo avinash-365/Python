@@ -104,8 +104,8 @@ The system is built to be crash-resistant. It actively handles:
 
 | Option 1 | Option 2 | Option 3 |
 | :---: | :---: | :---: |
-| ![Screen 1](screenshot/image.png) | ![Screen 2](screenshot/image1.png) | ![Screen 3](screenshot/image2.png) |
+| ![Screen 1](screenshot/image.png) | ![Screen 2](screenshot/image2.png) | ![Screen 3](screenshot/imag3.png) |
 
 | Option 4 | Option 5 | Option 6 |
 | :---: | :---: | :---: |
-| ![Screen 4](screenshot/image3.png) | ![Screen 5](screenshot/image4.png) | ![Screen 6](screenshot/image5.png) |
+| ![Screen 4](screenshot/image4.png) | ![Screen 5](screenshot/image5.png) | ![Screen 6](screenshot/image6.png) |
