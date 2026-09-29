@@ -1,14 +1,14 @@
 # 📊 Advanced NumPy Data Analyzer
 
 ## 📖 Project Overview
-The **Advanced NumPy Data Analyzer** is a robust, interactive, console-based application designed for deep data manipulation, mathematical computation, and statistical analysis using arrays[cite: 2, 3]. Built entirely on advanced **Object-Oriented Programming (OOP)** paradigms[cite: 3], this tool bridges the gap between fundamental Python programming and high-level Data Science/Machine Learning data preprocessing workflows.
+The **Advanced NumPy Data Analyzer** is a robust, interactive, console-based application designed for deep data manipulation, mathematical computation, and statistical analysis using arrays. Built entirely on advanced **Object-Oriented Programming (OOP)** paradigms, this tool bridges the gap between fundamental Python programming and high-level Data Science/Machine Learning data preprocessing workflows.
 
-This project handles everything from creating complex multi-dimensional arrays (1D, 2D, 3D) to performing precise slicing, threshold-based filtering, and generating statistical insights—all through a clean, menu-driven user interface[cite: 2, 3].
+This project handles everything from creating complex multi-dimensional arrays (1D, 2D, 3D) to performing precise slicing, threshold-based filtering, and generating statistical insights—all through a clean, menu-driven user interface.
 
 ---
 
 ## 🏗️ Core OOP Architecture & Principles
-The true strength of this application lies in its highly scalable architectural design. It utilizes a deep **Multi-Level Inheritance** tree and strictly adheres to standard OOP principles[cite: 3]:
+The true strength of this application lies in its highly scalable architectural design. It utilizes a deep **Multi-Level Inheritance** tree and strictly adheres to standard OOP principles:
 
 ### 1. Abstraction
 * Uses Python's `abc` module (`ABC`, `@abstractmethod`) to create a strict blueprint[cite: 3].
