@@ -557,11 +557,15 @@ Add screenshots of your actual running application to the `screenshots/` folder,
 
 ### Dataset Loaded
 
-![Dataset loaded screenshot](screenshots/2.png)
+![Dataset loaded screenshot](screenshots/1.png)
 
 ### Explore Data
 
-![Explore data screenshot](screenshots/3.png)
+![Explore data screenshot](screenshots/2.png)
+
+### Data Frame Opearation
+
+![Data Frame Opearation](screenshots/3.png)
 
 ### Missing-Value Handling
 
@@ -573,7 +577,7 @@ Add screenshots of your actual running application to the `screenshots/` folder,
 
 ### Data Visualization
 
-![Bar plot screenshot](screenshots/5.png)
+![Bar plot screenshot](screenshots/6.png)
 
 ### Saved Chart
 
